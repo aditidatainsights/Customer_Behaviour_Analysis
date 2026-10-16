@@ -48,3 +48,5 @@ Business Recommendations
 - Run Python scripts for data cleaning and feature engineering  
 - Use SQL queries in PostgreSQL for structured analysis  
 - Open the Power BI dashboard for interactive insights  
+
+“This project was inspired by YouTube tutorial @amlanmohanty and adapted for learning purposes. Original code is licensed under MIT.”
